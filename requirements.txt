@@ -1,0 +1,6 @@
+streamlit>=1.40
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.3
+scikit-learn>=1.5
+pypdf>=5.0
